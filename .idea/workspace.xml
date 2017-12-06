@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="390c0a24-6c93-4eda-8e2a-88302c861910" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/SipaExampleLayouts.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Podfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Podfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINCacheMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINCacheObjectSubscripting.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINDiskCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINCache/PINMemoryCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINOperation/PINOperation.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINOperation/PINOperationGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINOperation/PINOperationMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINOperation/PINOperationQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINOperation/PINOperationTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/NSData+ImageDetectors.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/NSURLSessionTask+Timing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINAlternateRepresentationProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINAnimatedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINAnimatedImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINButton+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINCache+PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINImage+DecodedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINImage+ScaledImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINImage+WebP.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINImageView+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINProgressiveImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageBasicCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageCallbacks.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageCategoryManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageDownloadQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageDownloadTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageManager+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageManagerResult.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageMemoryContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageProcessorTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageTask+Subclassing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteImageTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRemoteLock.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINRequestRetryStrategy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINResume.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINSpeedRecorder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/PINRemoteImage/PINURLSessionManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAbsoluteLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAbsoluteLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAbstractLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAsciiArtBoxCreator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAssert.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASAvailability.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBackgroundLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBaseDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBasicImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBasicImageDownloaderInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBatchContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBatchFetching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBatchFetchingDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASBlockTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASButtonNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCellNode+Internal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCellNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCenterLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionFlowLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionGalleryLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutContext+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutState+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionLayoutState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionView+Undeprecated.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionViewFlowLayoutInspector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionViewLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionViewLayoutFacilitatorProtocol.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionViewLayoutInspector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASCollectionViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASContextTransitioning.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASControlNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASControlNode+tvOS.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASControlNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASControlTargetAction.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDataController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDefaultPlayButton.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDefaultPlaybackButton.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDelegateProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDimension.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDimensionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDispatch.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+Ancestry.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+Convenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+DebugTiming.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+FrameworkPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+FrameworkSubclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNodeExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNodeInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNodeLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASDisplayNodeTipState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASEditableTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASElementMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASEqualityHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASEventLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASHashing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASHighlightOverlayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASIGListAdapterBasedDataSource.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageContainerProtocolCategories.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageNode+AnimatedImagePrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageNode+CGExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageNode+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageNode+tvOS.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASImageProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASInsetLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASIntegerMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASInternalHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayerBackingTipProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutElementExtensibility.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutElementPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutElementStylePrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutRangeType.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutSpec+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutSpecPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutSpecUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLayoutTransition.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASMainSerialQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASMapNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASMultiplexImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASMutableAttributedStringBuilder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASMutableElementMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASNavigationController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASNetworkImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASNodeController+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASObjectDescriptionHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASOverlayLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPINRemoteImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPageTable.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPagerFlowLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPagerNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPagerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPendingStateController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASPhotosFrameworkImageRequest.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRangeController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRangeControllerUpdateRangeProtocol+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRangeManagingNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRatioLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRectTable.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRelativeLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASResponderChainEnumerator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASRunLoopQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASScrollDirection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASScrollNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASSection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASSectionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASSectionController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASSignpost.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackLayoutDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackLayoutSpecUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackPositionedLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASStackUnpositionedLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASSupplementaryNodeSource.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTabBarController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableView+Undeprecated.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableViewInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTableViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextAttribute.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextDebugOption.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextInput.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitAttributes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitComponents.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitCoreTextAdditions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitEntityAttribute.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitFontSizeAdjuster.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitRenderer+Positioning.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitRenderer+TextChecking.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitRenderer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitShadower.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitTailTruncater.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextKitTruncating.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextLine.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextNode2.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextNodeTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextNodeWordKerner.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextRunDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTextUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASThread.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTip.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTipNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTipProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTipsController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTipsWindow.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTraceEvent.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTraitCollection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASTwoDimensionalArrayUtils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASVideoNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASVideoPlayerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASViewController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASVisibilityProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASWeakMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASWeakProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASWeakSet.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASYogaLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/ASYogaUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/AsyncDisplayKit+Debug.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/AsyncDisplayKit+IGListKitMethods.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/AsyncDisplayKit+Tips.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/CoreGraphics+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/IGListAdapter+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/NSArray+Diffing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/NSAttributedString+ASText.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/NSIndexSet+ASHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/NSMutableAttributedString+TextKitAdditions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/NSParagraphStyle+ASText.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/UICollectionViewLayout+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/UIImage+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/UIResponder+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/UIView+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASAsyncTransaction.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASAsyncTransactionContainer+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASAsyncTransactionContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASAsyncTransactionGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASCollectionGalleryLayoutInfo.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASCollectionGalleryLayoutItem.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASCollectionReusableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASCollectionViewCell.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASCoreAnimationExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASDisplayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASDisplayView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASDisplayViewAccessiblity.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASHierarchyChangeSet.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASPendingState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASScopeTimer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Private/Texture/AsyncDisplayKit/_ASTransitionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINCacheMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINCacheObjectSubscripting.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINDiskCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINCache/PINMemoryCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINOperation/PINOperation.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINOperation/PINOperationGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINOperation/PINOperationMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINOperation/PINOperationQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINOperation/PINOperationTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/NSData+ImageDetectors.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/NSURLSessionTask+Timing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINAlternateRepresentationProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINAnimatedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINAnimatedImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINButton+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINCache+PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINImage+DecodedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINImage+ScaledImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINImage+WebP.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINImageView+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINProgressiveImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageBasicCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageCallbacks.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageCategoryManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageDownloadQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageDownloadTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageManager+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageManagerResult.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageMemoryContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageProcessorTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageTask+Subclassing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteImageTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRemoteLock.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINRequestRetryStrategy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINResume.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINSpeedRecorder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/PINRemoteImage/PINURLSessionManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAbsoluteLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAbsoluteLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAbstractLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAsciiArtBoxCreator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAssert.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASAvailability.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBackgroundLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBaseDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBasicImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBatchContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBatchFetchingDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASBlockTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASButtonNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCellNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCenterLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionFlowLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionGalleryLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionLayoutContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionLayoutState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionViewLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionViewLayoutFacilitatorProtocol.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionViewLayoutInspector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASCollectionViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASContextTransitioning.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASControlNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASControlNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDataController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDelegateProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDimension.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDimensionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNode+Ancestry.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNode+Convenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASDisplayNodeExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASEditableTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASElementMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASEqualityHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASEventLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASHashing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASHighlightOverlayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASImageContainerProtocolCategories.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASImageProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASInsetLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASIntegerMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutElementExtensibility.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutElementPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutRangeType.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutSpec+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASMainSerialQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASMapNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASMultiplexImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASMutableAttributedStringBuilder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASNavigationController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASNetworkImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASNodeController+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASObjectDescriptionHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASOverlayLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPINRemoteImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPageTable.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPagerFlowLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPagerNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPagerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASPhotosFrameworkImageRequest.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRangeController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRangeControllerUpdateRangeProtocol+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRangeManagingNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRatioLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRelativeLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASRunLoopQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASScrollDirection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASScrollNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASSectionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASSectionController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASSignpost.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASStackLayoutDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASStackLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASStackLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASSupplementaryNodeSource.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTabBarController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableViewInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTableViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTextKitComponents.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTextNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTextNode2.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTextNodeTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASThread.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTraceEvent.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASTraitCollection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASVideoNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASVideoPlayerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASViewController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASVisibilityProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASWeakProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASWeakSet.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASYogaLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/ASYogaUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/AsyncDisplayKit+Debug.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/AsyncDisplayKit+IGListKitMethods.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/AsyncDisplayKit+Tips.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/CoreGraphics+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/IGListAdapter+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/NSArray+Diffing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/NSIndexSet+ASHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/NSMutableAttributedString+TextKitAdditions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/UICollectionViewLayout+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/UIImage+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/UIResponder+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/UIView+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASAsyncTransaction.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASAsyncTransactionContainer+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASAsyncTransactionContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASAsyncTransactionGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASCollectionReusableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASCollectionViewCell.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASDisplayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASDisplayView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASDisplayViewAccessiblity.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Headers/Public/Texture/AsyncDisplayKit/_ASTransitionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINCache.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINCacheMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINCacheObjectSubscripting.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINDiskCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINDiskCache.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINMemoryCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINCache/Source/PINMemoryCache.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperation.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationGroup.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationQueue.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINOperation/Source/PINOperationTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/NSData+ImageDetectors.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/NSData+ImageDetectors.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/NSURLSessionTask+Timing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/NSURLSessionTask+Timing.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+DecodedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+DecodedImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+ScaledImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+ScaledImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+WebP.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+WebP.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/Categories/PINRemoteImageTask+Subclassing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/ImageCategories/PINButton+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/ImageCategories/PINButton+PINRemoteImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/ImageCategories/PINImageView+PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/ImageCategories/PINImageView+PINRemoteImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAlternateRepresentationProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAlternateRepresentationProvider.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAnimatedImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAnimatedImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAnimatedImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINAnimatedImageManager.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINCache/PINCache+PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINCache/PINCache+PINRemoteImageCaching.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINProgressiveImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINProgressiveImage.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImage.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageBasicCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageBasicCache.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCaching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCallbacks.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCallbacks.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCategoryManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCategoryManager.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadQueue.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadTask.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManager+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManager.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManagerResult.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManagerResult.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageMemoryContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageMemoryContainer.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageProcessorTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageProcessorTask.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageTask.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteImageTask.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteLock.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRemoteLock.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRequestRetryStrategy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINRequestRetryStrategy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINResume.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINResume.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINSpeedRecorder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINSpeedRecorder.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINURLSessionManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/PINRemoteImage/Source/Classes/PINURLSessionManager.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/PINCache.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/PINOperation.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/PINRemoteImage.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/Pods-SipaHelpTexture.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/Texture.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINCache/PINCache-dummy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINCache/PINCache-prefix.pch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINCache/PINCache.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINOperation/PINOperation-dummy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINOperation/PINOperation-prefix.pch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINOperation/PINOperation.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINRemoteImage/PINRemoteImage-dummy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINRemoteImage/PINRemoteImage-prefix.pch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/PINRemoteImage/PINRemoteImage.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture-acknowledgements.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture-acknowledgements.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture-dummy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture-frameworks.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture-resources.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture.debug.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-SipaHelpTexture/Pods-SipaHelpTexture.release.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Texture/Texture-dummy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Texture/Texture-prefix.pch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Texture/Texture.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASBlockTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASButtonNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASButtonNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCellNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCellNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionView.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionViewLayoutFacilitatorProtocol.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASCollectionViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASContextTransitioning.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASControlNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASControlNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASControlNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Convenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Convenience.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Layout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode+Yoga.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNodeExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASDisplayNodeExtras.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASEditableTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASEditableTextNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASImageNode+AnimatedImage.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASImageNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASMapNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASMapNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASMultiplexImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASMultiplexImageNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNavigationController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNavigationController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNetworkImageNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNetworkImageNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNodeController+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASNodeController+Beta.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASPagerFlowLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASPagerFlowLayout.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASPagerNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASPagerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASPagerNode.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASRangeManagingNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASRunLoopQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASRunLoopQueue.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASScrollNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASScrollNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASSectionController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASSupplementaryNodeSource.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTabBarController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTabBarController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableView.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableViewInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTableViewProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTextNode+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTextNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTextNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTextNode2.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASTextNode2.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVideoNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVideoNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVideoPlayerNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVideoPlayerNode.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASViewController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASViewController.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVisibilityProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/ASVisibilityProtocols.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/AsyncDisplayKit+IGListKitMethods.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/AsyncDisplayKit+IGListKitMethods.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASAssert.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASAssert.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASAvailability.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASBaseDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASDisplayNode+Ancestry.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASDisplayNode+Ancestry.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASEqualityHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASLog.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Base/ASSignpost.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Debug/AsyncDisplayKit+Debug.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Debug/AsyncDisplayKit+Debug.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Debug/AsyncDisplayKit+Tips.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Debug/AsyncDisplayKit+Tips.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASAbstractLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASAbstractLayoutController.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASBasicImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASBasicImageDownloader.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASBatchContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASBatchContext.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASBatchFetchingDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionElement.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionFlowLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionFlowLayoutDelegate.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionGalleryLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionGalleryLayoutDelegate.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionInternal.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionLayoutContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionLayoutContext.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionLayoutDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionLayoutState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionLayoutState.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionViewLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionViewLayoutController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionViewLayoutInspector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASCollectionViewLayoutInspector.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASDataController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASDataController.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASDelegateProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASDelegateProxy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASElementMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASElementMap.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASEventLog.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASEventLog.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASHashing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASHashing.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASHighlightOverlayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASHighlightOverlayLayer.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASImageContainerProtocolCategories.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASImageContainerProtocolCategories.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASImageProtocols.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASIntegerMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASIntegerMap.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASLayoutRangeType.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASMainSerialQueue.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASMainSerialQueue.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASMutableAttributedStringBuilder.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASMutableAttributedStringBuilder.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASObjectDescriptionHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASObjectDescriptionHelpers.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPINRemoteImageDownloader.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPINRemoteImageDownloader.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPageTable.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPageTable.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPhotosFrameworkImageRequest.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASPhotosFrameworkImageRequest.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASRangeController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASRangeController.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASRangeControllerUpdateRangeProtocol+Beta.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASScrollDirection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASScrollDirection.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASSectionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTableLayoutController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTableLayoutController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASThread.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTraceEvent.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTraceEvent.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTraitCollection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASTraitCollection.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASWeakProxy.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASWeakProxy.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASWeakSet.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/ASWeakSet.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/CoreGraphics+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/CoreGraphics+ASConvenience.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSArray+Diffing.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSArray+Diffing.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSIndexSet+ASHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSIndexSet+ASHelpers.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSMutableAttributedString+TextKitAdditions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/NSMutableAttributedString+TextKitAdditions.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransaction.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransaction.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionContainer+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionContainer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionContainer.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionGroup.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/UICollectionViewLayout+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/UICollectionViewLayout+ASConvenience.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/UIView+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASCollectionReusableView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASCollectionReusableView.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASCollectionViewCell.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASCollectionViewCell.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayLayer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayLayer.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayView.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayViewAccessiblity.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Details/_ASDisplayViewAccessiblity.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/IGListAdapter+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/IGListAdapter+AsyncDisplayKit.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASAbsoluteLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASAbsoluteLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASAbsoluteLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASAsciiArtBoxCreator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASAsciiArtBoxCreator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASBackgroundLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASBackgroundLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASCenterLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASCenterLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASDimension.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASDimension.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASDimensionInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASDimensionInternal.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASInsetLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASInsetLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutElement.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutElementExtensibility.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutElementPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutSpec+Subclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutSpec+Subclasses.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASOverlayLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASOverlayLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASRatioLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASRatioLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASRelativeLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASRelativeLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASStackLayoutDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASStackLayoutElement.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASStackLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASStackLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASYogaLayoutSpec.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASYogaLayoutSpec.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASYogaUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Layout/ASYogaUtilities.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASBasicImageDownloaderInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASBatchFetching.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASBatchFetching.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCellNode+Internal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutCache.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutContext+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutDefines.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutDefines.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionLayoutState+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionView+Undeprecated.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionViewFlowLayoutInspector.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASCollectionViewFlowLayoutInspector.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASControlTargetAction.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASControlTargetAction.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDefaultPlayButton.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDefaultPlayButton.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDefaultPlaybackButton.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDefaultPlaybackButton.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDispatch.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDispatch.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+AsyncDisplay.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+DebugTiming.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+DebugTiming.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+FrameworkPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+FrameworkSubclasses.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNode+UIViewBridge.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNodeInternal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNodeLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNodeLayout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNodeTipState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASDisplayNodeTipState.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASIGListAdapterBasedDataSource.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASIGListAdapterBasedDataSource.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASImageNode+AnimatedImagePrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASImageNode+CGExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASImageNode+CGExtras.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASImageNode+Private.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASInternalHelpers.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASInternalHelpers.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASLayerBackingTipProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASLayerBackingTipProvider.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASLayoutTransition.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASLayoutTransition.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASMutableElementMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASMutableElementMap.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASPendingStateController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASPendingStateController.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASRectTable.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASRectTable.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASResponderChainEnumerator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASResponderChainEnumerator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASSection.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASSection.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTableView+Undeprecated.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTip.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTip.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipNode.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipProvider.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipsController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipsController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipsWindow.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTipsWindow.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTwoDimensionalArrayUtils.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASTwoDimensionalArrayUtils.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASWeakMap.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/ASWeakMap.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASLayoutElementStylePrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASLayoutSpecPrivate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASLayoutSpecUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASStackLayoutSpecUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASStackPositionedLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASStackPositionedLayout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASStackUnpositionedLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/Layout/ASStackUnpositionedLayout.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextDebugOption.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextDebugOption.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextInput.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextInput.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextLayout.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextLayout.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextLine.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Component/ASTextLine.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/String/ASTextAttribute.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/String/ASTextAttribute.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/String/ASTextRunDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/String/ASTextRunDelegate.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/ASTextUtilities.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/ASTextUtilities.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/NSAttributedString+ASText.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/NSAttributedString+ASText.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/NSParagraphStyle+ASText.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/TextExperiment/Utility/NSParagraphStyle+ASText.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCollectionGalleryLayoutInfo.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCollectionGalleryLayoutInfo.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCollectionGalleryLayoutItem.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCollectionGalleryLayoutItem.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCoreAnimationExtras.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASCoreAnimationExtras.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASHierarchyChangeSet.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASHierarchyChangeSet.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASPendingState.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASPendingState.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/Private/_ASScopeTimer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASLayoutManager.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASLayoutManager.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitAttributes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitAttributes.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitComponents.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitComponents.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitContext.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitCoreTextAdditions.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitCoreTextAdditions.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitEntityAttribute.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitEntityAttribute.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitFontSizeAdjuster.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitFontSizeAdjuster.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer+Positioning.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer+Positioning.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer+TextChecking.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer+TextChecking.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitRenderer.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitShadower.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitShadower.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitTailTruncater.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitTailTruncater.mm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextKitTruncating.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextNodeTypes.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextNodeWordKerner.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/TextKit/ASTextNodeWordKerner.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/UIImage+ASConvenience.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/UIImage+ASConvenience.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/UIResponder+AsyncDisplayKit.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/UIResponder+AsyncDisplayKit.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/_ASTransitionContext.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/_ASTransitionContext.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/tvOS/ASControlNode+tvOS.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/tvOS/ASControlNode+tvOS.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/tvOS/ASImageNode+tvOS.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pods/Texture/Source/tvOS/ASImageNode+tvOS.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/SipaHelpTexture.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcodeproj/xcuserdata/bimawa.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcworkspace/xcuserdata/bimawa.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture.xcworkspace/xcuserdata/bimawa.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/AppDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/AppDelegate.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/Base.lproj/LaunchScreen.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/Base.lproj/Main.storyboard" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/ViewController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/ViewController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SipaHelpTexture/main.m" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_63CDEC9D-2657-418B-8CD9-B78A7EF95A35" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SipaHelpTexture" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SipaHelpTexture" type="1d218c8b:XcodeProjectNode" />
+              <item name="Products" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SipaHelpTexture" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SipaHelpTexture" TARGET_NAME="SipaHelpTexture" CONFIG_NAME="Debug" SCHEME_NAME="SipaHelpTexture" RUN_TARGET_PROJECT_NAME="SipaHelpTexture" RUN_TARGET_NAME="SipaHelpTexture" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="390c0a24-6c93-4eda-8e2a-88302c861910" name="Default" comment="" />
+      <created>1512562040669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512562040669</updated>
+      <workItem from="1512562042161" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1413" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39984825" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
